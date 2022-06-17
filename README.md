@@ -1,16 +1,16 @@
-# 简洁红石
+# Simple redstone
 ![](https://github.com/iamliuzhiyu/SimpleRedstone/blob/main/title.png "title.png")
 
-该材质包目前会改变以下方块的材质：
+This texture pack currently changes the texture of the following blocks:
 
-- 活塞
-- 粘性活塞
-- 活塞头
-- 红石块
-- 红石粉
-- 红石灯
-- 红石火把
-- 红石比较器
-- 红石中继器
+- Piston
+- Sticky Piston
+- Piston Head
+- Redstone Block
+- Redstone Dust
+- Redstone Lamp
+- Redstone Torch
+- Redstone Comparator
+- Redstone Repeater
 
-欢迎使用此资源包！
+Welcome to use this resources pack!
