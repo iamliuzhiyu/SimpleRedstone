@@ -1,6 +1,8 @@
 # Simple redstone
 ![](https://github.com/iamliuzhiyu/SimpleRedstone/blob/main/title.png "title.png")
 
+English | [简体中文](https://github.com/iamliuzy/simple-redstone/blob/main/README_zh_cn.md)
+
 This texture pack currently changes the texture of the following blocks:
 
 - Piston
