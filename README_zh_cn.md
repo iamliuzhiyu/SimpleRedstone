@@ -1,6 +1,8 @@
 # 简洁红石
 ![](https://github.com/iamliuzhiyu/SimpleRedstone/blob/main/title.png "title.png")
 
+[English](https://github.com/iamliuzy/simple-redstone/blob/main/README.md) | 简体中文
+
 这个材质包现在会更改以下方块的材质：
 
 - 活塞
